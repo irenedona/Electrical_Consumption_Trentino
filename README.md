@@ -1,7 +1,7 @@
-Progetto reti elettriche
+Electrical networks project
 ==============================
 
-Progetto di data science sui consumi elettrici del trentino
+Data science project on electricity consumption in Trentino
 
 Project Organization
 ------------
